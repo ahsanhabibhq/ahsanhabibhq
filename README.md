@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
-<h3 align="center">Business Consultant from Bangladesh</h3>
+<h3 align="center">Business Consultant</h3>
 
 <h2>🛠 My Tech Stack</h2>
 
@@ -24,7 +24,7 @@
     <summary><b>Backend Developement</b></summary>
     <br>
     <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" /></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="nextjs" width="40" height="40" /></a>
     <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
     <a href="https://pugjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" /></a>
     <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
